@@ -1,0 +1,2 @@
+remote-1 ansible_host=172.31.38.205
+remote-2 ansible_host=172.31.42.125
