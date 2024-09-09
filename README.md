@@ -93,7 +93,12 @@ Feel free to reach out for collaboration or queries:
 
 - **Email**: antonyashwin643@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/ashwin-e-bab1461b1/
+- **Mobile**: 7339171064
 
+---
+
+### This portfolio showcases my skills and projects as an AWS DevOps Engineer. Check out my GitHub repositories to see my work in detail.
+  
 
 
 
