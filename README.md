@@ -1,5 +1,4 @@
 
-Here’s a sample README.md file that encapsulates your hands-on experience, based on the projects and tools you've mentioned:
 
 DevOps Engineer Projects Portfolio
 Welcome to my DevOps portfolio! This repository showcases my hands-on experience across a variety of tools and technologies like AWS, Docker, Jenkins, Kubernetes, Terraform, and CI/CD pipelines. Below are the detailed descriptions of the key projects I've worked on.
