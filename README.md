@@ -11,7 +11,7 @@ Welcome to my GitHub repository! This repository showcases various projects that
 - **Monitoring**: Prometheus, Grafana
 - **Scripting**: Bash, Python
 - **Version Control**: Git, GitHub
-- **Operating Systems**: Linux (Ubuntu, CentOS)
+- **Operating Systems**: Linux (Ubuntu)
 
 ---
 
