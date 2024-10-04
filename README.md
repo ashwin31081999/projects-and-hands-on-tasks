@@ -3,6 +3,9 @@
 
 Welcome to my GitHub repository! This repository showcases various projects that demonstrate my hands-on experience in **DevOps**, including automation, CI/CD pipelines, cloud infrastructure, and containerization.
 
+![image](https://github.com/user-attachments/assets/ff00788f-c164-4770-a741-204746e96697)
+
+
 ## Skills and Tools
 - **Cloud Platforms**: AWS, Azure
 - **CI/CD**: Jenkins, GitLab CI, GitHub Actions
