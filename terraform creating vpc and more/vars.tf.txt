@@ -1,0 +1,14 @@
+variable "public_subnet_cidr_block" {
+  description = "CIDR block for public subnet"
+  
+}
+
+variable "aws_region" {
+  description = "AWS Region"
+ 
+}
+
+variable "ec2_ami_id" {
+  description = "EC2 AMI ID"
+  
+}
